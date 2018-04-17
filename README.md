@@ -1,17 +1,14 @@
 # qianlong-email-marketing-assistant
 
 该邮件群发系统使用C#+Web协调运行机制，本地邮件服务将作为临时测试使用，正式运行请添加正式的邮件服务。
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/3.jpg)
 
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/login.png)
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/reg.png)
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/main.png)
 
 # 系统优势
-![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/1.jpg)
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/2.jpg)
-![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/3.jpg)
-![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/4.jpg)
-
 
 # 版本说明
 ```
@@ -91,6 +88,7 @@ Qianlongsoft_email_v2.5.1
 2.修复编辑邮件时插入代码问题
 3.修复发件统计代码，使其自动化识别链接地址
 ```
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/1.jpg)
 ## 关于作者
 
 bywei = 程序员百味
