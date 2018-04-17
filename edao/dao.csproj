@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9E65408D-1C71-4296-B81E-112725E85065}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dao</RootNamespace>
+    <AssemblyName>edao</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddConfigDao.cs" />
+    <Compile Include="common\ChkUtil.cs" />
+    <Compile Include="common\Constant.cs" />
+    <Compile Include="common\DbHelper.cs" />
+    <Compile Include="common\DBUtil.cs" />
+    <Compile Include="common\Encoder.cs" />
+    <Compile Include="common\RASDisplay.cs" />
+    <Compile Include="core\Core.cs" />
+    <Compile Include="core\Parameters.cs" />
+    <Compile Include="core\SendService.cs" />
+    <Compile Include="EmailInfoDao.cs" />
+    <Compile Include="InboxDao.cs" />
+    <Compile Include="core\SendMailConfig.cs" />
+    <Compile Include="core\Log.cs" />
+    <Compile Include="modle\Config.cs" />
+    <Compile Include="modle\Email.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendConfigDao.cs" />
+    <Compile Include="core\SendMail.cs" />
+    <Compile Include="SendMailDao.cs" />
+    <Compile Include="user\InfoHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="user\Config.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

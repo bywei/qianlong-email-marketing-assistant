@@ -1,2 +1,99 @@
 # qianlong-email-marketing-assistant
-é’±é¾™é‚®ä»¶è¥é”€åŠ©æ‰‹ï¼ˆQianLong Email Marketing Assistantï¼‰
+
+¸ÃÓÊ¼þÈº·¢ÏµÍ³Ê¹ÓÃC#+WebÐ­µ÷ÔËÐÐ»úÖÆ£¬±¾µØÓÊ¼þ·þÎñ½«×÷ÎªÁÙÊ±²âÊÔÊ¹ÓÃ£¬ÕýÊ½ÔËÐÐÇëÌí¼ÓÕýÊ½µÄÓÊ¼þ·þÎñ¡£
+
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/login.png)
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/reg.png)
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/main.png)
+
+# °æ±¾ËµÃ÷
+```
+V2.0.0Éý¼¶¼ÇÂ¼
+1.ÓÊ¼þÊ±¼äÅäÖÃ
+2.µÇÂ¼´óÐ¡Ð´ÎÊÌâ
+3.×¢²áÖÐÎÄÎÊÌâ
+4.·¢¼þÅäÖÃ£º¹ºÂòÆóÒµ°æ·¢¼þÓÊÏäºÍÁ´½Ó
+5.µÇÂ¼½çÃæ¹ã¸æ
+6.ÓÊ¼þÄÚÈÝ¹ã¸æ
+7.ÅúÁ¿Éú³É·¢ÓÊÏäµÄÐ¡ºÅ
+8.²âÊÔÒ»·â´óÓÚ10Ê¹ÓÃlistÁÐ±í
+9.ÓÊ¼þ·¢ËÍ»úÖÆ£º
+ ¹¹½¨Ïß³Ì³Ø
+ (1)Ò»·âÓÊ¼þ·¢ËÍÊ§°Üºó£¬ÁÙÊ±±£´æ
+  --(2)Á¬Ðø·¢ËÍÊ§°Ü3·âºó¸ü»»·¢¼þÈË
+  --(4)Á¬Ðø·¢ËÍ(ÓÃ»§×Ô¶¨Òå·¢ËÍN·â)·âºóË¯ÃßÒ»»á¶ù
+  --(5)Í¨¹ýÖ÷Ïß³ÌÀ´¿ØÖÆ·¢ËÍµÄÅÅÐò(·¢ËÍµ½Ê²Ã´µØ·½ÁË)
+  --(6)Éú³É×ÓÏß³ÌÀ´¿ØÖÆÁ¬Ðø·¢ËÍ¼¸·âÓÊ¼þ(¿ØÖÆ(4))
+  --(7)Èç¹û·¢¼þÈËÑ­»·Íê±Ï£¬¾Í£¨¸ü»»ip£©£¬ÔÙÖØÐÂÑ­»··¢ËÍ
+ (8)ÔËÐÐÍê±ÏÖ®ºó£¬½øÐÐÊ§°ÜÏîµÄµÚ¶þ´Î·¢ËÍ
+  --(9)ÓÃ»§×Ô¶¨Òå·¢ËÍN·âÓÊ¼þºó»»·¢¼þÈË
+ (10)ÄÚÈÝÖÐ¼äÌí¼Ó°×É«×Ö·ûºÍºê±äÁ¿
+  --(11)Èç¹ûÓÃ»§Ã»ÓÐ×Ô¶¨ÒåÓÊ¼þ·¢ËÍÓÊ¼þÊýÁ¿=>²ÉÓÃÆ½¾ù·ÖÅä ·¢¼þÈË
+ (12)¼ÇÂ¼ÒÑ¾­·¢ËÍµÄÎ»ÖÃ
+10.°Ñ¹ã¸æ·ÅÈëµ½Êý¾Ý¿âÖÐ£¬Ò»´ÎÐÔ¶ÁÈ¡
+
+V2.3.0Éý¼¶¼ÇÂ¼
+1.Ôö¼ÓÁËÔÚÏßÓÊ¼þÓªÏúÐ§¹û¸ú×Ù£¬ÒÑ¾­ÊµÏÖÁËÔÚÏßÉêÇëÈí¼þÕÊºÅ£¬ÔÚÏß¹ÜÀí¸öÈË×ÊÁÏÐÅÏ¢£¬ÓÊ¼þÄÚ²¿Á´½ÓÍ³¼Æ·ÖÎöµÈ¹¦ÄÜ¡£
+[Web¹ÜÀíÏîÄ¿](https://github.com/bywei/qianlong-email-marketing-assistant)
+2.ÐÞ¸ÄÓÃ»§µÇÂ¼¼ÇÂ¼£¬Ã¿´ÎÖ»ÄÜµÇÂ¼Ò»¸öÓÃ»§¡£·ÀÖ¹ÕÊºÅ¶à¸öµØ·½µÇÂ¼¡£
+
+V2.3.1Éý¼¶¼ÇÂ¼
+1.Ôö¼ÓÁËÀ´Ô´ÓÊÏäµÄÍ³¼Æ·ÖÎö£¬½áºÏÔÚÏßÓÊ¼þÓªÏú¸ú×ÙÏµÍ³
+
+V2.3.2Éý¼¶¼ÇÂ¼
+1.µ±Èí¼þµÇÂ¼ÕÊºÅ±»Ëø¶¨£¬ÉèÖÃÎå·ÖÖÓºó¿É×Ô¶¯µÇÂ¼
+2.ÉèÖÃ²âÊÔÒ»·âÖ»ÄÜ²âÊÔÇ°¶þÊ®¸ö·¢¼þÈË
+3.ÓÊ¼þ±êÌâÊ¹ÓÃ ¡®|¡¯·Ö¸î£¬¿ÉÒÔÌí¼Ó¶à¸ö±êÌâ£¬·¢ËÍÊ±Ëæ»úÑ¡Ôñ±êÌâ
+
+V2.3.2Éý¼¶¼ÇÂ¼
+--Ê§°ÜµÄÓÒ¼üÖØÐÂ·¢ËÍ
+
+Qianlongsoft_email_v2.3.2 Éý¼¶ÈÕÖ¾
+1.Ôö¼Óµ¼ÈëÊÕ¼þÈËÍê³ÉºóµÄÌáÊ¾ÐÅÏ¢
+2.ÌáÉýµ¼ÈëÊÕ¼þÈËËÙ¶È
+3.ÐÞ¸ÄÇÐ»»½çÃæÏÔÊ¾»¨ÆÁÎÊÌâ
+4.Ôö¼ÓÉ¾³ý·¢·¢ËÍµÄÊ±ºòÏä
+5.Òþ²ØsmtpµØÖ·
+6.Ð¶ÔØ²»¸É¾»
+7.¼æÈÝw7 jet
+
+Qianlongsoft_email_v2.3.4 
+1.ÔÚÊÕ¼þÈË¹ÜÀíÀïÃæÌí¼ÓÉ¾³ý·¢ËÍ³É¹¦µÄÊÕ¼þÈË
+2.Ôö¼ÓÇ®Áúsmtp·þÎñÆ÷
+3.Ôö¼ÓÓÊ¼þ±à¼­ÈÕÆÚ±äÁ¿
+4.Ôö¼ÓhtmlÔÚÏß±à¼­Æ÷
+5.ÐÞ¸ÄµÇÂ¼½çÃæÌØÐ§
+
+Qianlongsoft_email_v2.5.0
+1.Ôö¼ÓÆóÒµÓÊÏä·þÎñÆ÷
+  smtp1.qianlongsoft.com
+  smtp2.qianlongsoft.com
+  smtp3.qianlongsoft.com
+  smtp4.qianlongsoft.com
+  smtp5.qianlongsoft.com
+  smtp6.qianlongsoft.com
+2.ÐÞ¸ÄÈí¼þ·ç¸ñÑùÊ½£¬Ôö¼ÓÓÃ»§ÌåÑé
+3.ÐÞ¸Äv2.3.4ÒÅÁôµÄ·¢ËÍÊ±¼äÎÊÌâ
+4.È¥µôÊÔÓÃÓÃ»§µÄÓÊ¼þ¹ã¸æ
+
+Qianlongsoft_email_v2.5.1
+1.ÐÞ¸´¸öÈËÐÅÏ¢½çÃæ
+  Ôö¼ÓÁËÓÊ¼þÈº·¢¼¼ÇÉ½Ì³Ì
+  Ôö¼ÓÁËÓÊ¼þÍ³¼ÆÁ´½Ó
+  ÐÞ¸´ÁËË¢ÐÂÐÅÏ¢²úÉúµÄ¶à¸öicon
+2.ÐÞ¸´±à¼­ÓÊ¼þÊ±²åÈë´úÂëÎÊÌâ
+3.ÐÞ¸´·¢¼þÍ³¼Æ´úÂë£¬Ê¹Æä×Ô¶¯»¯Ê¶±ðÁ´½ÓµØÖ·
+```
+## ¹ØÓÚ×÷Õß
+
+bywei = ³ÌÐòÔ±°ÙÎ¶
+
+¸öÈË²©¿Í = "http://www.bywei.cn"
+
+
+
+
+
+
+
+

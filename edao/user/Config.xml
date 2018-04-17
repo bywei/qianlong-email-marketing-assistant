@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<configSections>
+		<sectionGroup name="TestGroup">
+			<section name="Test" type="System.Configuration.NameValueSectionHandler"/>
+		</sectionGroup>
+		<section name="Test1" type="System.Configuration.SingleTagSectionHandler"/>
+		<section name="Test2" type="System.Configuration.DictionarySectionHandler"/>
+		<section name="Test3" type="System.Configuration.NameValueSectionHandler" />
+	</configSections>
+
+	<TestGroup>
+		<Test>
+			<add key="Hello" value="World"/>
+		</Test>
+	</TestGroup>
+	<Test1 setting1="Hello" setting2="World"/>
+	<Test2>
+		<add key="Hello" value="World" />
+	</Test2>
+	<Test3>
+		<add key="Hello" value="World" />
+	</Test3>
+</configuration>

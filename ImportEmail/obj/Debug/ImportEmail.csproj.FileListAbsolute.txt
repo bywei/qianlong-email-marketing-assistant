@@ -1,0 +1,203 @@
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\obj\Debug\ImportEmail.csproj.GenerateResource.Cache
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+d:\Documents and Settings\administrato$\My Documents\Visual Studio 2008\Projects\ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+E:\ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+E:\ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+E:\ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+E:\ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+E:\ImportEmail\ImportEmail\bin\Debug\IrisSkin2.dll
+E:\ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+E:\ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+E:\ImportEmail\ImportEmail\obj\Debug\ImportEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\bin\Debug\IrisSkin2.dll
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+C:\Documents and Settings\administrato$\桌面\ImportEmail\ImportEmail\obj\Debug\ImportEmail.csproj.GenerateResource.Cache
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\bin\Debug\IrisSkin2.dll
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\专业课程\c#\复件 百味邮件群发系统VS2008\ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+E:\专业课程\c#\百味邮件群发系统VS2010\ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.LoginFrm.resources
+E:\专业课程\c#\百味邮件群发系统VS2010\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.exe
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.pdb
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.EmailFrm.resources
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.LoginFrm.resources
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.Properties.Resources.resources
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.5.tlog
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\myproject\积分版ImportEmail\ImportEmail\bin\Debug\ImportEmail.exe
+F:\myproject\积分版ImportEmail\ImportEmail\bin\Debug\ImportEmail.pdb
+F:\myproject\积分版ImportEmail\ImportEmail\obj\Debug\ImportEmail.MainForm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\bin\Debug\email.exe.config
+F:\myproject\email\积分版ImportEmail\ImportEmail\bin\Debug\email.exe
+F:\myproject\email\积分版ImportEmail\ImportEmail\bin\Debug\email.pdb
+F:\myproject\email\积分版ImportEmail\ImportEmail\bin\Debug\edao.dll
+F:\myproject\email\积分版ImportEmail\ImportEmail\bin\Debug\edao.pdb
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.editEmail.EditFrm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.emailConfig.AddConfigFrm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.EmailFrm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.LoginFrm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.MainForm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.Properties.Resources.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendConfigFrm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendService.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendTestFrm.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.UserInfoPannel.resources
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.5.tlog
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.5.tlog
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\email.exe
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\email.pdb
+F:\myproject\email\积分版ImportEmail\ImportEmail\obj\Debug\common.Form1.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.exe.config
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\email.exe
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\email.pdb
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.exe
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.pdb
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\edao.dll
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\edao.pdb
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.EditFrm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.emailConfig.AddConfigFrm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.EmailFrm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.Form1.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.LoginFrm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.MainForm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.Properties.Resources.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendConfigFrm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendService.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendTestFrm.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.UserInfoPannel.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.5.tlog
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.5.tlog
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.exe.config
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\email.exe
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\email.pdb
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.EditFrm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.emailConfig.AddConfigFrm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.EmailFrm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.LoginFrm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.MainForm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.Properties.Resources.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendConfigFrm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendService.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.sendConfig.SendTestFrm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.UserInfoPannel.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.exe
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.pdb
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\edao.dll
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\edao.pdb
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.SendThread.resources
+F:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.SendThread.resources
+H:\myproject\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\email.exe.config
+H:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\email.exe
+H:\myproject\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\email.pdb
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.EditorForm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.LinkDialog.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.SearchDialog.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.TextInsertForm.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\obj\Debug\common.editEmail.Editor.resources
+F:\project\email\钱龙内部版ImportEmail\ImportEmail\bin\Debug\Microsoft.mshtml.dll
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\email.exe.config
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\email.exe
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\email.pdb
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\edao.dll
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\Microsoft.mshtml.dll
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\edao.pdb
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.EditFrm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.Editor.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.EditorForm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.LinkDialog.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.SearchDialog.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.TextInsertForm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.emailConfig.AddConfigFrm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.EmailFrm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.LoginFrm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.MainForm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.Properties.Resources.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.sendConfig.SendConfigFrm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.sendConfig.SendService.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.sendConfig.SendTestFrm.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.SendThread.resources
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\email.exe
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\email.pdb
+F:\project\钱龙项目\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.UserInfoFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\email.exe.config
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\email.exe
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\email.pdb
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\edao.dll
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\Microsoft.mshtml.dll
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\bin\Debug\edao.pdb
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.EditFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.Editor.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.EditorForm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.LinkDialog.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.SearchDialog.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.editEmail.TextInsertForm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.emailConfig.AddConfigFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.EmailFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.LoginFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.MainForm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.Properties.Resources.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.sendConfig.SendConfigFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.sendConfig.SendService.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.sendConfig.SendTestFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.SendThread.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\common.UserInfoFrm.resources
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\email.exe
+F:\project\email\钱龙邮件群发系统完整版\ImportEmail\obj\Debug\email.pdb

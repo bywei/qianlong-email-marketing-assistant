@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{464908E2-F2CA-4AE2-826E-B2C0378F78C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>common</RootNamespace>
+    <AssemblyName>email</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/ImportEmail/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>common.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Net.Json, Version=1.0.2821.20109, Culture=neutral, PublicKeyToken=e0b9c68a59fc9efd, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Net.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MailAssembly.cs" />
+    <Compile Include="DbHelper.cs" />
+    <Compile Include="editEmail\EditFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editEmail\EditFrm.Designer.cs">
+      <DependentUpon>EditFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editEmail\Editor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="editEmail\Editor.designer.cs">
+      <DependentUpon>Editor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editEmail\EditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editEmail\EditorForm.designer.cs">
+      <DependentUpon>EditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editEmail\LinkDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editEmail\LinkDialog.designer.cs">
+      <DependentUpon>LinkDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editEmail\SearchDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editEmail\SearchDialog.designer.cs">
+      <DependentUpon>SearchDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editEmail\TextInsertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editEmail\TextInsertForm.designer.cs">
+      <DependentUpon>TextInsertForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emailConfig\AddConfigFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emailConfig\AddConfigFrm.Designer.cs">
+      <DependentUpon>AddConfigFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailFrm.designer.cs">
+      <DependentUpon>EmailFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormChk.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sendConfig\SendService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sendConfig\SendService.Designer.cs">
+      <DependentUpon>SendService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendThread.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendThread.Designer.cs">
+      <DependentUpon>SendThread.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Toolstrip.cs" />
+    <Compile Include="UserInfoFrm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserInfoFrm.Designer.cs">
+      <DependentUpon>UserInfoFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="editEmail\EditFrm.resx">
+      <DependentUpon>EditFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editEmail\Editor.resx">
+      <DependentUpon>Editor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editEmail\EditorForm.resx">
+      <DependentUpon>EditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editEmail\LinkDialog.resx">
+      <DependentUpon>LinkDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editEmail\SearchDialog.resx">
+      <DependentUpon>SearchDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editEmail\TextInsertForm.resx">
+      <DependentUpon>TextInsertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emailConfig\AddConfigFrm.resx">
+      <DependentUpon>AddConfigFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailFrm.resx">
+      <DependentUpon>EmailFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sendConfig\SendConfigFrm.resx">
+      <DependentUpon>SendConfigFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sendConfig\SendService.resx">
+      <DependentUpon>SendService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sendConfig\SendTestFrm.resx">
+      <DependentUpon>SendTestFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendThread.resx">
+      <DependentUpon>SendThread.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInfoFrm.resx">
+      <DependentUpon>UserInfoFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="sendConfig\SendConfigFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sendConfig\SendConfigFrm.Designer.cs">
+      <DependentUpon>SendConfigFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sendConfig\SendTestFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sendConfig\SendTestFrm.Designer.cs">
+      <DependentUpon>SendTestFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendMail.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\removeOver.png" />
+    <None Include="Resources\updateOver.png" />
+    <None Include="Resources\createOer.png" />
+    <None Include="Resources\testBg.jpg" />
+    <None Include="bin\Debug\skin\bg.jpg" />
+    <None Include="bin\Debug\skin\backgroundImage.png" />
+    <None Include="bin\Debug\skin\emailOn.png" />
+    <None Include="bin\Debug\skin\userMailOn.png" />
+    <None Include="bin\Debug\skin\registOn.png" />
+    <None Include="bin\Debug\skin\senderOn.png" />
+    <None Include="bin\Debug\skin\sendOn.png" />
+    <None Include="bin\Debug\skin\service.png" />
+    <None Include="bin\Debug\skin\sendOver.png" />
+    <None Include="bin\Debug\skin\senderOver.png" />
+    <None Include="bin\Debug\skin\registOver.png" />
+    <None Include="bin\Debug\skin\emailOver.png" />
+    <None Include="bin\Debug\skin\userMailOver.png" />
+    <None Include="bin\Debug\skin\serviceOver.png" />
+    <None Include="bin\Debug\skin\main_tabbtn.png" />
+    <None Include="bin\Debug\skin\panelRight.png" />
+    <None Include="bin\Debug\skin\panelLeft.png" />
+    <None Include="bin\Debug\skin\startService.png" />
+    <None Include="bin\Debug\skin\startSend.png" />
+    <None Include="bin\Debug\skin\stopSend.png" />
+    <None Include="bin\Debug\skin\continueSend.png" />
+    <None Include="bin\Debug\skin\setting.png" />
+    <None Include="bin\Debug\skin\sendTest.png" />
+    <None Include="bin\Debug\skin\pause.png" />
+    <None Include="bin\Debug\skin\remove.png" />
+    <None Include="bin\Debug\skin\update.png" />
+    <None Include="bin\Debug\skin\create.png" />
+    <None Include="bin\Debug\skin\removeAll.png" />
+    <None Include="bin\Debug\skin\createUserMailIcon.png" />
+    <None Include="bin\Debug\skin\export.png" />
+    <None Include="bin\Debug\skin\import.png" />
+    <None Include="bin\Debug\skin\commonBg.png" />
+    <None Include="bin\Debug\skin\closeFormOver.png" />
+    <None Include="bin\Debug\skin\minForm.png" />
+    <None Include="bin\Debug\skin\minFormOver.png" />
+    <None Include="bin\Debug\skin\closeForm.png" />
+    <None Include="bin\Debug\skin\bannerAd.png" />
+    <None Include="bin\Debug\skin\loginBg.png" />
+    <None Include="bin\Debug\skin\login.png" />
+    <None Include="bin\Debug\skin\loginBtn.png" />
+    <None Include="bin\Debug\skin\reg.png" />
+    <None Include="bin\Debug\skin\regCancleBtn.png" />
+    <None Include="bin\Debug\skin\regBtn.png" />
+    <None Include="bin\Debug\skin\userInfoBg.png" />
+    <None Include="bin\Debug\skin\loader.gif" />
+    <None Include="bin\Debug\skin\logo.png" />
+    <Content Include="icon.ico" />
+    <Content Include="logo.ico" />
+    <None Include="Resources\bg.gif" />
+    <None Include="Resources\image.png" />
+    <None Include="Resources\backcolor.bmp" />
+    <None Include="Resources\bold.bmp" />
+    <None Include="Resources\cj.bmp" />
+    <None Include="Resources\color.bmp" />
+    <None Include="Resources\fj.bmp" />
+    <None Include="Resources\indent.bmp" />
+    <None Include="Resources\italic.bmp" />
+    <None Include="Resources\link.bmp" />
+    <None Include="Resources\lj.bmp" />
+    <None Include="Resources\ol.bmp" />
+    <None Include="Resources\outdent.bmp" />
+    <None Include="Resources\right_arrow.bmp" />
+    <None Include="Resources\rj.bmp" />
+    <None Include="Resources\underscore.bmp" />
+    <None Include="Resources\uol.bmp" />
+    <None Include="Resources\stopSend.png" />
+    <None Include="Resources\service.png" />
+    <None Include="Resources\buyService.png" />
+    <None Include="Resources\softbannerad2.jpg" />
+    <None Include="Resources\startService.png" />
+    <None Include="Resources\continue.png" />
+    <None Include="Resources\pause.png" />
+    <None Include="Resources\createUserMailIcon.png" />
+    <None Include="Resources\removeAll.png" />
+    <None Include="Resources\export.png" />
+    <None Include="Resources\import.png" />
+    <None Include="Resources\remove.png" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\create.png" />
+    <None Include="Resources\startSend.png" />
+    <None Include="Resources\buyOn.png" />
+    <None Include="Resources\registOn.png" />
+    <None Include="Resources\sendOn.png" />
+    <None Include="Resources\userMailOn.png" />
+    <None Include="Resources\senderOn.png" />
+    <None Include="Resources\emailOn.png" />
+    <None Include="Resources\emaillog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\edao\dao.csproj">
+      <Project>{9E65408D-1C71-4296-B81E-112725E85065}</Project>
+      <Name>dao</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
