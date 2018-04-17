@@ -6,6 +6,14 @@
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/reg.png)
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/main.png)
 
+# 系统优势
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/1.jpg)
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/2.jpg)
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/3.jpg)
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/4.jpg)
+![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/5.jpg)
+
+
 # 版本说明
 ```
 V2.0.0升级记录
