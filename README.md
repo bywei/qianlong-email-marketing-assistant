@@ -11,7 +11,6 @@
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/2.jpg)
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/3.jpg)
 ![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/4.jpg)
-![screenshot](https://github.com/bywei/qianlong-email-marketing-assistant/raw/master/Screenshots/banner/5.jpg)
 
 
 # °æ±¾ËµÃ÷
